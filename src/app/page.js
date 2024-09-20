@@ -72,7 +72,7 @@ export default function Home() {
               </div>
               :
               <div className="mb-5 text-4xl p-4 rounded-lg bg-green-500 text-white">
-                "{vencedor}" é vencedor!
+                "{vencedor}" é o vencedor!
               </div>
             }         
 
