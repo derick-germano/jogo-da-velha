@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+body {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;  
+}
